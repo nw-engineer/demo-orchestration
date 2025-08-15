@@ -1,5 +1,5 @@
 # demo-orchestration
-PoC for API unification, commonality, and orchestration
+PoC for API integration, commonality, and AI agent orchestration
 
 ## The goal
 Ultimately, we aim to test with the following configuration:
